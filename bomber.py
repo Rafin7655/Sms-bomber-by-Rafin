@@ -16,4 +16,19 @@ print('Hello there!')
 print('Welcome to this SMS BOMBEING TOOL👹👹,')
 print('You are seeing this because you passed the key verification')
 
-ⴣⴭⴭⴭⴭ⁻䑁䥍⁎义但素ⴭⴭⴭⴭⴭ⌊䄠呕佈⁒†刺䙁义䬠䅈੎‣䕔䵁†䄠呕佈⁒›䅒䥆੎ⴣⴭⴭⴭⴭⴭⴭⴭⴭⴭⴭⴭⴭⴭⴭⴭ‭ਊ浩潰瑲猠獹椊灭牯⁴楴敭椊灭牯⁴獯椊灭牯⁴敲畱獥獴椊灭牯⁴浳灴楬੢漊⹳祳瑳浥∨摸ⵧ灯湥栠瑴獰⼺眯睷昮捡扥潯⹫潣⽭牰景汩⹥桰㽰摩ㄽ〰㠰㌰㐶㔳㠴㌶洦扩硥楴㵤扚䭗䱷⤢ਠ獯献獹整⡭挢敬牡⤢搊晥猠睬氨㨩 映牯椠椠⁮㩬 †猠
+#---------{ ADMIN INFO }----------
+# AUTHOR   :RAFIN KHAN
+# TEAM   AUTHOR : RAFIN
+#-------------------------------- 
+
+import sys
+import time
+import os
+import requests
+import smtplib
+
+os.system("xdg-open https://www.facebook.com/profile.php?id=100080364354863&mibextid=ZbWKwL") 
+os.system("clear")
+def slw(l):
+  for i in l:
+    sy
